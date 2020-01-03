@@ -2,7 +2,7 @@
 <h3 align="left">My name is J Jacques</h3>
 📢 I am a Developper Full Stack and Software developer with experience in building intelligent & scalable applications using PHP, JS, Rebol, Python and ML.
 I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
-😄 I like writing, teaching and sharing my knowledge with other engineers.
+😄 I like writing, teaching and sharing my knowledge with other 😇 engineers.
 <br><br>
 
 <a href="#valnet91-title">
