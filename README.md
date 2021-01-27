@@ -5,8 +5,8 @@ I love Open Source, Backend, Serverless, Distributed systems and the challenges 
 I like writing, teaching and sharing my knowledge with other engineers.
 <br><br>
 
-<a href="#egbakou-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Egbakou" align="right" />
+<a href="#valnet91-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Developpeur Full Stack Github" align="right" />
 </a>
 
 - [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003669) &nbsp;
