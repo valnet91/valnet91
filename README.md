@@ -6,9 +6,9 @@ I like writing, teaching and sharing my knowledge with other engineers.
 <br><br>
 
 <a href="#valnet91-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Developpeur Full Stack Github" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Developpeur Full Stack Github" align="center" />
 </a>
-
+<br><br>
 
 
 <h2 align="left" id="valnet91-tech">Favorite Tech</h2>
