@@ -113,5 +113,4 @@ I love Open Source, Backend, Serverless, Distributed systems and the challenges 
       <br>FastApi
     </td>
   </tr>
-    
 </table>
