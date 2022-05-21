@@ -6,7 +6,7 @@ I love Open Source, Backend, Serverless, Distributed systems and the challenges 
 <br><br>
 
 <a href="#valnet91-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Developpeur Full Stack Github" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valnet91&show_icons=true&theme=default&count_public=true&include_all_commits=true" alt="Developpeur Full Stack Github" align="center" />
 </a>
 <br><br>
 
